@@ -120,3 +120,30 @@ This README is based on Day 1 tasks from the internship notes
 ## 🚀 Status
 
 ✅ Day 1 Completed Successfully
+
+# 🚀 AI-ML Internship – Day 2
+
+## 📘 Module 3: Python for AI (Basics – Part 1)
+
+This repository contains notes and practice programs from **Day 2** of the AI/ML Internship. The focus is on **Python fundamentals**, which are essential for building AI applications.
+
+---
+
+## 🧠 Topics Covered
+
+### 🔹 Python Setup for AI
+- Installation of Python
+- Checking Python version
+- IDEs:
+  - VS Code
+  - Jupyter Notebook
+
+---
+
+### 🔹 Python Fundamentals
+
+#### ✅ Variables
+Used to store data values.
+
+✅ Day 2
+Completed Successfully
