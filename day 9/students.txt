@@ -1,0 +1,4 @@
+alex,90
+maria,40
+isha,70
+prem,50
