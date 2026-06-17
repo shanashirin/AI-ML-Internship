@@ -1,0 +1,9 @@
+path: D:/AI-ML-Internship/Day 1/AI-ML-Internship/day 49/dataset
+
+train: images/train
+val: images/val
+
+nc: 1
+
+names:
+  0: helmet
