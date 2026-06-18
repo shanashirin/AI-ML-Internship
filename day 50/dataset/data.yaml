@@ -1,0 +1,7 @@
+train: "D:/AI-ML-Internship/Day 1/AI-ML-Internship/day 50/dataset/images/train"
+val: "D:/AI-ML-Internship/Day 1/AI-ML-Internship/day 50/dataset/images/val"
+
+nc: 1
+
+names:
+  - helmet
